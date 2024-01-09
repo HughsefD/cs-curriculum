@@ -6,7 +6,7 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Start.unity
+    path: Assets/Scripts/Start.unity
     guid: db129290ae06f47bdb18032458324579
   - enabled: 1
     path: Assets/Scenes/Overworld.unity
